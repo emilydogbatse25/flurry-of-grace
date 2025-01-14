@@ -1,6 +1,6 @@
 # Ray Tracing Project - A Flurry of Grace
 
-A custom ray tracer implementing fundamental computer graphics concepts including lighting, shadows, and reflections using Python and PyGame.
+A custom ray tracer implementing fundamental computer graphics concepts including lighting, shadows, and reflections using Python.
 
 ## Overview
 This project demonstrates core graphics principles:
